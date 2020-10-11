@@ -1,0 +1,12 @@
+{
+  "name": "web-robot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "protractor conf.js"
+  },
+  "dependencies": {
+    "protractor": "^7.0.0"
+  }
+}
